@@ -1,3 +1,2 @@
 # test-repo
-I am now pulling these changes from github 
-and I am trying a second time
+I have pushed changes successfuly, now lets try pulling them down 
